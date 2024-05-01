@@ -1,0 +1,8 @@
+.title_container, .button_container, .result_container {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+  }
+  body {
+    background-color: #DFD6FA !important;
+  }
